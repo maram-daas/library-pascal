@@ -1,5 +1,6 @@
 ## License
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.  
+See the [LICENSE](LICENSE) file or visit [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/) for more details.
 
-Use it however it helps you <33
+You're free to use it for studying, backups, or personal projects, best of luck <33
